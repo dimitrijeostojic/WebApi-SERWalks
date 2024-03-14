@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks\\SERWalks.API\\SERWalks.API.csproj": {}
+    "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\SERWalks.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks\\SERWalks.API\\SERWalks.API.csproj": {
+    "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\SERWalks.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks\\SERWalks.API\\SERWalks.API.csproj",
+        "projectUniqueName": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\SERWalks.API.csproj",
         "projectName": "SERWalks.API",
-        "projectPath": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks\\SERWalks.API\\SERWalks.API.csproj",
+        "projectPath": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\SERWalks.API.csproj",
         "packagesPath": "C:\\Users\\dimit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks\\SERWalks.API\\obj\\",
+        "outputPath": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dimit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[8.0.3, )"

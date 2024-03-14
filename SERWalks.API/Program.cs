@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using SERWalks.API.Data;
+using SERWalks.API.Mappings;
 using SERWalks.API.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,7 +14,10 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<SERWalksDbContext>(options=>options.UseSqlServer(builder.Configuration.GetConnectionString("SERWalksConnectionString")));
 
 builder.Services.AddScoped<IRegionRepository, SQLRegionRepository>();
+builder.Services.AddScoped<IWalkRepository, SQLWalkRepository>();
 //builder.Services.AddScoped<IRegionRepository, InMemoryRegionRepository>();
+
+builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
 
 var app = builder.Build();
 

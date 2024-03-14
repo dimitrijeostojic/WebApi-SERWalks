@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SERWalks.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27af98f00f3e679ed0e284c3787d013289e7cfbc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SERWalks.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SERWalks.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

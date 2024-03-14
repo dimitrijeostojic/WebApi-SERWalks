@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "gg0SlsCIAvj7xnRo+joGTTYX1zqeOCN8aHCJE13/dXG0knuqcaf00y58Yj2nxBZ9JQxJM6QP3knbsRSQgA1Vfg==",
+  "dgSpecHash": "Kzo3W7n783SHWKerwYtfxvbfNqa6sCopgHpvN/u5xoL1xfR9pr4e8gCPtYorKxAvwTbeGjUa+DSeRxyVnCPxIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks\\SERWalks.API\\SERWalks.API.csproj",
+  "projectFilePath": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\SERWalks.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\dimit\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\dimit\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
