@@ -1,6 +1,7 @@
 ﻿using AutoMapper;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using SERWalks.API.CustomActionFilters;
 using SERWalks.API.Data;
 using SERWalks.API.Models.Domain;
 using SERWalks.API.Models.DTO;
@@ -26,6 +27,7 @@ namespace SERWalks.API.Controllers
         //CREATE Walk
         //POST: /api/walks
         [HttpPost]
+        [ValidateModel]
         public async Task<IActionResult> Create([FromBody] AddWalkRequestDto addWalkRequestDto)
         {
             //map dto to domain model
@@ -46,11 +48,11 @@ namespace SERWalks.API.Controllers
         }
 
         //GET walks
-        //GET: /api.walks
+        //GET: /api.walks?filterOn=Name&filterQuery=Track&sortBy=Name&isAscending=true&pageNumber=1&pageSize=10
         [HttpGet]
-        public async Task<IActionResult> GetAll()
+        public async Task<IActionResult> GetAll([FromQuery] string? filterOn, [FromQuery] string? filterQuery, [FromQuery] string? sortBy, [FromQuery] bool? isAscending, [FromQuery] int pageNumber=1, [FromQuery] int pageSize=1000)
         {
-            var walksDomain = await walkRepository.GetAllAsync();
+            var walksDomain = await walkRepository.GetAllAsync(filterOn, filterQuery, sortBy, isAscending ?? true,pageNumber,pageSize);
 
             var walksDto = mapper.Map<List<WalkDto>>(walksDomain);
 
@@ -82,13 +84,14 @@ namespace SERWalks.API.Controllers
 
         [HttpPut]
         [Route("{id:Guid}")]
+        [ValidateModel]
         public async Task<IActionResult> Update([FromRoute] Guid id, [FromBody] UpdateWalkRequestDto updateWalkRequestDto)
         {
             var walkDomainModel = mapper.Map<Walk>(updateWalkRequestDto);
 
             walkDomainModel = await walkRepository.UpdateAsync(id, walkDomainModel);
 
-            if (walkDomainModel==null)
+            if (walkDomainModel == null)
             {
                 return NotFound();
             }
@@ -104,14 +107,14 @@ namespace SERWalks.API.Controllers
         [Route("{id:Guid}")]
         public async Task<IActionResult> Delete(Guid id)
         {
-            var walkDomainModel= await walkRepository.DeleteAsync(id);
+            var walkDomainModel = await walkRepository.DeleteAsync(id);
 
-            if (walkDomainModel==null)
+            if (walkDomainModel == null)
             {
                 return NotFound();
             }
 
-            var walkDto=mapper.Map<WalkDto>(walkDomainModel);
+            var walkDto = mapper.Map<WalkDto>(walkDomainModel);
 
             return Ok(walkDto);
         }
