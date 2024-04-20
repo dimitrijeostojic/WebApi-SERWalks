@@ -3,16 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\repositories\\localimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\repositories\\iimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\data\\serwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\data\\serwalksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\dto\\imageuploadrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Migrations\\20240419232242_Adding Images Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SERWalks.API\\Migrations\\20240419232242_Adding Images Table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\repositories\\tokenrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\repositories\\tokenrepositoy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\dto\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\repositories\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\dto\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\dto\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\repositories\\inmemoryregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\repositories\\inmemoryregionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\repositories\\sqlwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\dto\\addwalkrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\dto\\difficultydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\dto\\addregionrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\domain\\walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\domain\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\models\\domain\\region.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\controllers\\walkscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\customactionfilters\\validatemodelattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\mappings\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\repositories\\iwalkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|c:\\users\\dimit\\desktop\\web api\\serwalks\\serwalks.api\\migrations\\serwalksdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DCD19F2-B3A4-4EC0-80DC-218509DEFFD3}|SERWalks.API\\SERWalks.API.csproj|solutionrelative:serwalks.api\\migrations\\serwalksdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +122,363 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\IWalkRepository.cs",
-              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\IWalkRepository.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\IWalkRepository.cs",
-              "RelativeToolTip": "SERWalks.API\\Repositories\\IWalkRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T00:40:01.134Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "SQLWalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "RelativeToolTip": "SERWalks.API\\Repositories\\SQLWalkRepository.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAowCEAAAAAAAAA",
+              "Title": "LocalImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\LocalImageRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\LocalImageRepository.cs",
+              "RelativeToolTip": "SERWalks.API\\Repositories\\LocalImageRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-14T00:39:53.632Z",
+              "WhenOpened": "2024-04-19T23:40:16.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IImageRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\IImageRepository.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\IImageRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\IImageRepository.cs",
+              "RelativeToolTip": "SERWalks.API\\Repositories\\IImageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:39:33.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImageUploadRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\DTO\\ImageUploadRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:26:55.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "SERWalks.API\\Controllers\\ImagesController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:25:00.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SERWalksDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Data\\SERWalksDbContext.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Data\\SERWalksDbContext.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Data\\SERWalksDbContext.cs",
+              "RelativeToolTip": "SERWalks.API\\Data\\SERWalksDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:48:04.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Program.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Program.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Program.cs",
+              "RelativeToolTip": "SERWalks.API\\Program.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:58:15.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\Domain\\Image.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\Domain\\Image.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\Domain\\Image.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:01:45.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240419232242_Adding Images Table.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Migrations\\20240419232242_Adding Images Table.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Migrations\\20240419232242_Adding Images Table.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Migrations\\20240419232242_Adding Images Table.cs",
+              "RelativeToolTip": "SERWalks.API\\Migrations\\20240419232242_Adding Images Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T23:22:42.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SERWalks.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAywD4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:55:09.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\ITokenRepository.cs",
+              "RelativeToolTip": "SERWalks.API\\Repositories\\ITokenRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:23:13.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\DTO\\LoginRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\LoginRequestDto.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\DTO\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:16:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\DTO\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T12:57:47.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenRepositoy.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\TokenRepositoy.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\TokenRepositoy.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\TokenRepositoy.cs",
+              "RelativeToolTip": "SERWalks.API\\Repositories\\TokenRepositoy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T13:24:10.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "SERWalks.API\\Controllers\\RegionsController.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAuwHoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:15:13.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\DTO\\LoginResponseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T14:07:52.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "InMemoryRegionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\InMemoryRegionRepository.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\InMemoryRegionRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\InMemoryRegionRepository.cs",
+              "RelativeToolTip": "SERWalks.API\\Repositories\\InMemoryRegionRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:25:37.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DifficultyDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\DTO\\DifficultyDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:20:11.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SQLWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "RelativeToolTip": "SERWalks.API\\Repositories\\SQLWalkRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAADwv0YAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:12:43.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AddWalkRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\DTO\\AddWalkRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:20:12.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AddRegionRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\DTO\\AddRegionRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:20:10.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Walk.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\Domain\\Walk.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\Domain\\Walk.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\Domain\\Walk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:20:02.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\Domain\\Difficulty.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\Domain\\Difficulty.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\Domain\\Difficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:19:57.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Models\\Domain\\Region.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Models\\Domain\\Region.cs",
+              "RelativeToolTip": "SERWalks.API\\Models\\Domain\\Region.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T00:19:52.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "WalksController.cs",
               "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Controllers\\WalksController.cs",
               "RelativeDocumentMoniker": "SERWalks.API\\Controllers\\WalksController.cs",
               "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Controllers\\WalksController.cs",
               "RelativeToolTip": "SERWalks.API\\Controllers\\WalksController.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAQwHMAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAADmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T23:11:07.089Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T22:09:49.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ValidateModelAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "RelativeToolTip": "SERWalks.API\\CustomActionFilters\\ValidateModelAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T21:15:03.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "SERWalks.API\\Mappings\\AutoMapperProfiles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:16:50.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IWalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\IWalkRepository.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Repositories\\IWalkRepository.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Repositories\\IWalkRepository.cs",
+              "RelativeToolTip": "SERWalks.API\\Repositories\\IWalkRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAACtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:11:51.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SERWalksDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Migrations\\SERWalksDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SERWalks.API\\Migrations\\SERWalksDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\dimit\\Desktop\\web api\\SERWalks\\SERWalks.API\\Migrations\\SERWalksDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SERWalks.API\\Migrations\\SERWalksDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T22:01:25.575Z"
             }
           ]
         }
