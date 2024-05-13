@@ -31,7 +31,7 @@ namespace SERWalks.API.Controllers
             var identityUser = new IdentityUser()
             {
                 UserName = registerRequestDto.Username,
-                Email = registerRequestDto.Username
+                Email = registerRequestDto.Username,
             };
             // Kreiranje korisnika u sistemu
             var identityResult = await userManager.CreateAsync(identityUser, registerRequestDto.Password);
