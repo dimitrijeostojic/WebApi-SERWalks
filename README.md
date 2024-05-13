@@ -1,0 +1,1 @@
+The web app focuses on regions and walks, where I learned ASP.NET Core Web API. I implemented the repository pattern and explored advanced concepts such as filtering, sorting, and pagination. Additionally, I gained knowledge in using JWT and became proficient in authorization and authentication.
